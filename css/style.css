@@ -1,6 +1,44 @@
-#circle{
-	width: 100px;
-	height: 100px;
-	background-color: red;
+#circle1{
+	width: 150px;
+	height: 150px;
+	background-color: white;
 	border-radius: 50%;
+	margin-left: 300px;
+	margin-top: 100px;
+	border: grey;
+}
+#greenBox{
+	width:1330px;
+	height:400px;
+	border:1px solid #000;
+	background-color: #81F7BE;
+}
+#circle2{	
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	border-radius: 50%;
+	margin-left: 900px;
+	margin-top: -150px;
+	border: grey;
+}
+#circle3{	
+	width: 150px;
+	height: 150px;
+	background-color: white;
+	border-radius: 50%;
+	margin-left: 600px;
+	margin-top: -150px;
+	border: grey;
+}
+#circle4{
+		width: 150px;
+	height: 150px;
+	background-color: white;
+	border-radius: 50%;
+	margin-left: 600px;
+	margin-top: -150px;
+	border: grey;
+
+	
 }
